@@ -1,0 +1,6 @@
+{
+  "name": "Money Wars",
+  "description": "MONEY WARS — EXTREME WORLD SIMULATION (200 Countries Edition)",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
